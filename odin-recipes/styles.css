@@ -1,0 +1,23 @@
+
+h1{
+    text-align: center;
+    background-color: cyan;
+}
+
+.recipe-list{
+    background-color:lightcoral;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+}
+
+p {
+    background-color: red;
+}
+
+ul,
+ol {
+    background-color: bisque;
+}
